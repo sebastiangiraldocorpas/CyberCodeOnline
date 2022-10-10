@@ -1,6 +1,12 @@
 {
-    "Instruction": "Please add more entries under the 'rooms' list, and make sure the width and height is always 15x15",
-    "IMPORTANT": "You must not block the doors on each edge, ensure all spaces are connected and keep the json formatting. Use jsonlint.com to test",
+    English:
+        "Instruction": "Please add more entries under the 'rooms' list, and make sure the width and height is always 15x15",
+        "IMPORTANT": "You must not block the doors on each edge, ensure all spaces are connected and keep the json formatting. Use jsonlint.com to test",
+
+    Spanish:
+        "Instruction": "Agregue más entradas en la lista de 'habitaciones' y asegúrese de que el ancho y la altura sean siempre 15x15",
+        "IMPORTANTE": "No debe bloquear las puertas en cada borde, asegúrese de que todos los espacios estén conectados y mantenga el formato json. Use jsonlint.com para probar",
+    
     "rooms": [
         {
             "tiles": [
@@ -10396,6 +10402,26 @@
                 "#", " ", "#", "#", " ", " ", "#", " ", "#", " ", " ", "#", " ", " ", "#",
                 "#", "#", "#", "#", "#", "#", "#", " ", "#", "#", "#", "#", "#", "#", "#"
             ]
-        }
+        },
+        {
+		"tiles": [
+			"#", "#", "#", "#", "#", "#", "#", " ", "#", "#", "#", "#", "#", "#", "#",
+			"#", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", "#", " ", "#",
+			"#", " ", " ", "#", "#", "#", "#", "#", "#", " ", " ", " ", "#", " ", "#",
+			"#", " ", " ", "#", " ", " ", " ", " ", " ", " ", " ", " ", "#", " ", "#",
+			"#", " ", " ", "#", " ", "#", "#", "#", "#", "#", "#", " ", "#", " ", "#",
+			"#", " ", " ", "#", " ", " ", " ", "#", "#", " ", "#", " ", " ", " ", "#",
+			"#", " ", " ", "#", " ", "#", "#", "#", "#", " ", "#", " ", " ", " ", "#",
+			" ", " ", " ", "#", " ", "#", " ", " ", "#", " ", "#", "#", " ", " ", " ",
+			"#", " ", " ", " ", " ", "#", " ", " ", "#", " ", " ", " ", " ", " ", "#",
+			"#", " ", " ", "#", " ", "#", " ", " ", "#", " ", "#", "#", " ", " ", "#",
+			"#", " ", " ", "#", " ", " ", " ", " ", "#", " ", "#", " ", " ", " ", "#",
+			"#", " ", " ", "#", " ", " ", "#", "#", "#", " ", "#", " ", " ", " ", "#",
+			"#", " ", " ", "#", "#", "#", "#", " ", " ", " ", "#", " ", " ", " ", "#",
+			"#", " ", " ", " ", " ", " ", " ", " ", " ", " ", "#", " ", " ", " ", "#",
+			"#", "#", "#", "#", "#", "#", "#", " ", "#", "#", "#", "#", "#", "#", "#"
+		]
+	}
+    
     ]
 }
